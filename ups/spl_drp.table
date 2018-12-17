@@ -1,4 +1,6 @@
 setupRequired(pipe_drivers)
 setupRequired(pipe_tasks)
 setupRequired(validate_drp)
+setupRequired(fgcmcal)
+setupRequired(jointcal)
 #setupRequired()
